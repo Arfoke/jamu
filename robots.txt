@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jamubarokah717-pi.vercel.app/sitemap.xml
